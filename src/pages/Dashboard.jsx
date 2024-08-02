@@ -1,6 +1,6 @@
 import { Paper, Table, TableCell, TableContainer, TableHead, TableRow, TableBody, TextField, Typography } from "@mui/material"
 import React, { useState } from 'react';
-import { useAuth0 } from "@auth0/auth0-react";
+
 
 export default function Dashboard(){
     return(
